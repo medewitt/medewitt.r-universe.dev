@@ -12,5 +12,9 @@
     {
         "package": "nccovid",
         "url": "https://github.com/conedatascience/nccovid"
+    },
+    {
+        "package" :"autotracer",
+        "url" : "https://github.com/conedatascience/autotracer"
     }
 ]
