@@ -7,5 +7,10 @@
     {
         "package": "staninside",
         "url": "https://github.com/medewitt/staninside"
+    },
+    
+    {
+        "package": "nccovid",
+        "url": "https://github.com/conedatascience/nccovid"
     }
 ]
