@@ -16,5 +16,9 @@
     {
         "package" :"autotracer",
         "url" : "https://github.com/conedatascience/autotracer"
+    },
+    {
+        "package" :"intervalcalc",
+        "url" : "https://github.com/medewitt/intervalcalc"
     }
 ]
